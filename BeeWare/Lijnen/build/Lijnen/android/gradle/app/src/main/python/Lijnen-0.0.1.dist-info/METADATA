@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.18
+Name: Lijnen
+Formal-Name: Hessel
+App-ID: nl.hassle.Lijnen
+Version: 0.0.1
+Home-page: https://hassle.nl/Lijnen
+Download-URL: https://hassle.nl/Lijnen
+Author: Hassle
+Author-email: hessel_kruk@hotmail.com
+Summary: Program that calculated how to distribute medication over IV lines
